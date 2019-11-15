@@ -1,0 +1,3 @@
+Variables stored in the results file are all potentially useful for analysis, 
+however, its main functionality is for easier storage for cross train
+machine learning.
